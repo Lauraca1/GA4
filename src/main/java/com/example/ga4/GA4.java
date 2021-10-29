@@ -202,7 +202,7 @@ public class GA4 extends Application {
         });
         log.setOnAction(new EventHandler<ActionEvent>() {
             public void handle(ActionEvent actionEvent) {
-                if (first == true && result == false) {
+                if (first && !result) {
                     label2 = label1;
                     double res = Math.log10(firstOpperand);
                     label1.setText("log(" + label2.getText() + ") = "+ Double.toString(res));

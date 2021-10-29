@@ -3,5 +3,5 @@ projectKey=Lauraca1_GA4
 serverUrl=https://sonarcloud.io
 serverVersion=8.0.0.24399
 dashboardUrl=https://sonarcloud.io/dashboard?id=Lauraca1_GA4
-ceTaskId=AXzGd2f6CEUqjsh_CQLF
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXzGd2f6CEUqjsh_CQLF
+ceTaskId=AXzLNLpbTU95l_s9jZKE
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXzLNLpbTU95l_s9jZKE
